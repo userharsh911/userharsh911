@@ -75,3 +75,4 @@
 ⭐️ *Always Learning • Always Building*
 
 ![snake gif](https://github.com/userharsh911/userharsh911/blob/output/github-snake-dark.svg)
+![](https://komarev.com/ghpvc/?username=userharsh911&color=blue)
