@@ -1,7 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Full+Stack+Developer;MERN+Stack+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=userharsh911&show_icons=true&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com/?user=userharsh911&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userharsh911&layout=compact&theme=tokyonight)
 ### 🚀 Full Stack Developer | MERN Stack | Cybersecurity Learner
 # Hi, I'm Harsh 👋
 
@@ -70,4 +67,6 @@ Currently, I’m focused on **Full Stack Web Development** using the **MERN Stac
 ---
 
 ⭐ *Always learning. Always building.*
+
+![Streak Stats](https://streak-stats.demolab.com/?user=userharsh911&theme=tokyonight)
 
