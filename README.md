@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Cybersecurity Learner</h3>
+<h1 align="center">Hi, I'm Harsh</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Cybersecurity Learner</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,7 +15,7 @@
 - 🌱 Learning **Advanced Backend & Cybersecurity**
 - 💡 Love building real-world applications
 - 🎯 Goal: Become a high-level developer & problem solver
-- ⚡ Fun fact: I learn by building 🚀
+- ⚡ Fun fact: I learn by building
 
 ---
 
