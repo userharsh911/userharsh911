@@ -59,3 +59,5 @@ Currently, I’m focused on **Full Stack Web Development** using the **MERN Stac
 ---
 
 ⭐ *Always learning. Always building.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=userharsh911&show_icons=true&theme=tokyonight)
