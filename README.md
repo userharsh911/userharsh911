@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Full+Stack+Developer;MERN+Stack+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 ### 🚀 Full Stack Developer | MERN Stack | Cybersecurity Learner
 # Hi, I'm Harsh 👋
 
