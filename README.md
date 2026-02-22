@@ -21,7 +21,11 @@
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio:** https://www.userharsh911.me
+<P align="left">
+  <a href="https://www.userharsh911.me" target="blank">
+  <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-blue"/>
+  </a>
+</P> 
 
 ---
 
