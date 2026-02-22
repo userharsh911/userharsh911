@@ -1,72 +1,83 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Full+Stack+Developer;MERN+Stack+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
-### 🚀 Full Stack Developer | MERN Stack | Cybersecurity Learner
-# Hi, I'm Harsh 👋
+<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Cybersecurity Learner</h3>
 
-I'm a passionate **Web Developer & Tech Enthusiast** who loves building real-world projects and learning new technologies.
-
-Currently, I’m focused on **Full Stack Web Development** using the **MERN Stack**, while also exploring areas like **Cybersecurity** and **Game Development**.
-
----
-
-## 🚀 What I’m Working On
-
-- Building full-stack web applications
-- Creating clean and responsive UI/UX
-- Exploring backend architecture & APIs
-- Learning advanced JavaScript concepts
-- Experimenting with real-world projects
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Tech" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![React](https://img.shields.io/badge/React-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+## 👨‍💻 About Me
 
-
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- Bootstrap, Tailwind CSS
-- React.js
-
-**Backend**
-- Node.js, Express.js
-- MongoDB
-- REST APIs
-
-**Other Tools**
-- Git & GitHub
-- VS Code
-- Postman
+- 🔭 Currently working on **Full Stack Web Projects**
+- 🌱 Learning **Advanced Backend & Cybersecurity**
+- 💡 Love building real-world applications
+- 🎯 Goal: Become a high-level developer & problem solver
+- ⚡ Fun fact: I learn by building 🚀
 
 ---
 
-## 📌 Featured Interests
+## 🌐 Portfolio
 
-- Web Development
-- Cybersecurity
-- Ethical Hacking
-- Game Development (C++)
+🔗 **Portfolio:** https://userharsh911.tech  
 
 ---
 
-## 📈 Goals
+## 🛠️ Tech Stack
 
-- Build impactful real-world products  
-- Improve system design & backend skills  
-- Grow as a developer and problem solver  
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=userharsh911&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=userharsh911&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userharsh911&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🛒 E-Commerce Website (MERN Stack)
+- 🎬 Netflix Clone
+- 🌦️ Weather Application
+- ⬇️ PyDM Download Manager
 
 ---
 
 ## 🤝 Connect With Me
 
-- GitHub: [github.com/userharsh911](https://github.com/userharsh911)
-- 🌐 Portfolio: https://userharsh911.tech
+<p align="left">
+<a href="https://github.com/userharsh911" target="blank">
+<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 ---
 
-⭐ *Always learning. Always building.*
-
-![Streak Stats](https://streak-stats.demolab.com/?user=userharsh911&theme=tokyonight)
-
+⭐️ *Always Learning • Always Building*
