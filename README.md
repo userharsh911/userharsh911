@@ -16,7 +16,11 @@ Currently, I’m focused on **Full Stack Web Development** using the **MERN Stac
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![React](https://img.shields.io/badge/React-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+
 
 **Frontend**
 - HTML5, CSS3, JavaScript (ES6+)
@@ -60,7 +64,3 @@ Currently, I’m focused on **Full Stack Web Development** using the **MERN Stac
 
 ⭐ *Always learning. Always building.*
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![React](https://img.shields.io/badge/React-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
