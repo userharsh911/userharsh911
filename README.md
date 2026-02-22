@@ -1,3 +1,4 @@
+### 🚀 Full Stack Developer | MERN Stack | Cybersecurity Learner
 # Hi, I'm Harsh 👋
 
 I'm a passionate **Web Developer & Tech Enthusiast** who loves building real-world projects and learning new technologies.
