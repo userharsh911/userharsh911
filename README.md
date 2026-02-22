@@ -22,7 +22,7 @@
 ## 🌐 Portfolio
 
 <P align="left">
-  <a href="https://www.userharsh911.me" target="blank">
+  <a href="https://www.userharsh911.tech" target="blank">
   <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-blue"/>
   </a>
 </P> 
