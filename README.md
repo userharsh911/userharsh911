@@ -61,8 +61,8 @@
 
 - 🛒 E-Commerce Website (MERN Stack) https://aoninaturals.com
 - 🎬 Fame-Blog (Blogging Website) https://fame-blog-lime.vercel.app
-- 💭 Chat Application https://chat-app-wfr7.onrender.com
-- 💞 Dating Application https://dating-app-xnmo.onrender.com/
+- 💭 Chat Application https://chat-app-iota-azure.vercel.app
+- 💞 Dating Application https://dating-app-three-jet.vercel.app
 
 ---
 
