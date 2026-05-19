@@ -9,17 +9,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 Currently working on **Full Stack Web Projects**
-- 🌱 Learning **Advanced Backend & Cybersecurity**
-- 💡 Love building real-world applications
-- 🎯 Goal: Become a high-level developer & problem solver
-- ⚡ Fun fact: I learn by building
+- Currently working on **Full Stack Web Projects**
+- Learning **Advanced Backend & Cybersecurity**
+- Love building real-world applications
+- Goal: Become a high-level developer & problem solver
+- Fun fact: I learn by building
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 <P align="left">
   <a href="https://www.userharsh911.tech" target="blank">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,16 +57,16 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🛒 E-Commerce Website (MERN Stack) https://aoninaturals.com
-- 🎬 Fame-Blog (Blogging Website) https://fame-blog-lime.vercel.app
-- 💭 Chat Application https://chat-app-iota-azure.vercel.app
-- 💞 Dating Application https://dating-app-three-jet.vercel.app
+- E-Commerce Website (MERN Stack) https://aoninaturals.com
+- Fame-Blog (Blogging Website) https://fame-blog-lime.vercel.app
+- Chat Application https://chat-app-iota-azure.vercel.app
+- Dating Application https://dating-app-three-jet.vercel.app
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://github.com/userharsh911" target="blank">
