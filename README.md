@@ -59,11 +59,11 @@
 
 ## Featured Projects
 
-- E-Commerce Website (MERN Stack) https://aoninaturals.com
-- Fame-Blog (Blogging Website) https://fame-blog.userharsh911.tech
-- Chat Web-Application https://chat.userharsh911.tech
-- Dating Web-Application https://dating.userharsh911.tech
-- Birthday reminder Web-Application https://wisher.userharsh911.tech
+- E-Commerce Website (MERN Stack) for client - https://aoninaturals.com
+- Fame-Blog (Blogging Website) - https://fame-blog.userharsh911.tech
+- Chat Web-Application - https://chat.userharsh911.tech
+- Dating Web-Application - https://dating.userharsh911.tech
+- Birthday reminder Web-Application - https://wisher.userharsh911.tech
 
 ---
 
